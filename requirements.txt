@@ -1,0 +1,13 @@
+transformers
+datasets
+accelerate
+sentencepiece
+scikit-learn
+pandas
+openpyxl
+joblib
+torch
+fastapi
+uvicorn
+matplotlib
+seaborn
