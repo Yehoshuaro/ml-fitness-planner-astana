@@ -5,7 +5,7 @@ import joblib
 import os
 
 DATA_PATH = "data/"
-USER_FILE = os.path.join(DATA_PATH, "AI_Personalized_Fitness_App_Ответы_Ответы_на_форму_1.csv")
+USER_FILE = os.path.join(DATA_PATH, "survey_answers.csv")
 REF_FILE = os.path.join(DATA_PATH, "gym_recommendation.xlsx")
 GYM_FILE = os.path.join(DATA_PATH, "megaGymDataset.csv")
 
